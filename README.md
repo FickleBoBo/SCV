@@ -74,7 +74,7 @@
 
 <hr>
 <p>
-  <img src="./exec/img/architecture.PNG" alt="architecture" width="600">
+  <img src="./exec/img/architecture.png" alt="architecture" width="600">
 </p>
 
 ### ERD
